@@ -1,0 +1,21 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf SriLanka_only_relate.vcf
+	--weir-fst-pop fst/Jaffna.txt
+	--weir-fst-pop fst/Nallur.txt
+	--keep fst/Jaffna.txt
+	--keep fst/Nallur.txt
+	--out ./fst/JaffnaNallur.txt
+
+Using zlib version: 1.2.11
+Warning: Expected at least 2 parts in INFO entry: ID=PR,Number=0,Type=Flag,Description="Provisional reference allele, may not be based on real reference genome">
+Keeping individuals in 'keep' list
+After filtering, kept 3 out of 73 Individuals
+Outputting Weir and Cockerham Fst estimates.
+Weir and Cockerham mean Fst estimate: 0.062097
+Weir and Cockerham weighted Fst estimate: 0.19018
+After filtering, kept 10545 out of a possible 10545 Sites
+Run Time = 0.00 seconds

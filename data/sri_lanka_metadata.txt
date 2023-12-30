@@ -1,0 +1,122 @@
+Chip	Plate_Location	Population_Name	no_accent_pop_name	Sample	CEL_file_name	Sex	Paternal_ID	Maternal_ID	Phenotype	Notes	Owner	Private/Public	City	State/Province	Country	Region	Latitude	Longitude	Year	Include_in_chip_manuscript
+55	A07	Jaffna	Jaffna	FW01_01	FW01_01				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Jaffna		Sri Lanka		9.6650403	80.0205976		
+55	A08	Jaffna	Jaffna	FW02_04	FW02_04				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Jaffna		Sri Lanka		9.6650403	80.0205976		
+55	A09	Nallur	Nallur	FW04_02	FW04_02				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Nallur		Sri Lanka		9.6707887	80.0301617		
+55	A10	Kokkuvil	Kokkuvil	FW05_05	FW05_05				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Kokkuvil		Sri Lanka		9.6941501	80.0238766		
+55	A11	Inuvil	Inuvil	FW07_03	FW07_03				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Inuvil		Sri Lanka		9.712839	80.01196		
+55	A12	Kopay	Kopay	FW09_01	FW09_01				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Kopay		Sri Lanka		9.705016	80.05754		
+55	B07	Jaffna	Jaffna	FW01_02A	FW01_02A				0ppt	salinity GWAS; technical replica 1	Andrea Gloria-Soria	Private	Jaffna		Sri Lanka		9.6650403	80.0205976		
+55	B08	Jaffna	Jaffna	FW02_05	FW02_05				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Jaffna		Sri Lanka		9.6650403	80.0205976		
+55	B09	Nallur	Nallur	FW04_03	FW04_03				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Nallur		Sri Lanka		9.6707887	80.0301617		
+55	B10	Kokkuvil	Kokkuvil	FW06_01	FW06_01				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Kokkuvil		Sri Lanka		9.6941501	80.0238766		
+55	B11	Inuvil	Inuvil	FW07_04	FW07_04				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Inuvil		Sri Lanka		9.712839	80.01196		
+55	B12	Kopay	Kopay	FW09_02	FW09_02				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Kopay		Sri Lanka		9.705016	80.05754		
+55	C07	Jaffna	Jaffna	FW01_03A	FW01_03A				0ppt	salinity GWAS; technical replica 1	Andrea Gloria-Soria	Private	Jaffna		Sri Lanka		9.6650403	80.0205976		
+55	C08	Nallur	Nallur	FW03_01	FW03_01				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Nallur		Sri Lanka		9.6707887	80.0301617		
+55	C09	Nallur	Nallur	FW04_04	FW04_04				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Nallur		Sri Lanka		9.6707887	80.0301617		
+55	C10	Kokkuvil	Kokkuvil	FW06_02	FW06_02				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Kokkuvil		Sri Lanka		9.6941501	80.0238766		
+55	C11	Inuvil	Inuvil	FW07_05A	FW07_05A				0ppt	salinity GWAS; technical replica 1	Andrea Gloria-Soria	Private	Inuvil		Sri Lanka		9.712839	80.01196		
+55	C12	Gurunagar	Gurunagar	BW01_01A	BW01_01A				8ppt	salinity GWAS; technical replica 1	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		9.6545258	80.0210231		
+55	D07	Jaffna	Jaffna	FW01_04A	FW01_04A				0ppt	salinity GWAS; technical replica 1	Andrea Gloria-Soria	Private	Jaffna		Sri Lanka		9.6650403	80.0205976		
+55	D08	Nallur	Nallur	FW03_02	FW03_02				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Nallur		Sri Lanka		9.6707887	80.0301617		
+55	D09	Nallur	Nallur	FW04_05	FW04_05				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Nallur		Sri Lanka		9.6707887	80.0301617		
+55	D10	Kokkuvil	Kokkuvil	FW06_03	FW06_03				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Kokkuvil		Sri Lanka		9.6941501	80.0238766		
+55	D11	Uduvil	Uduvil	FW08_01	FW08_01				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Uduvil		Sri Lanka		9.732428	80.01027		
+55	D12	Gurunagar	Gurunagar	BW02_04A	BW02_04A				8ppt	salinity GWAS; technical replica 1	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		9.6545258	80.0210231		
+55	E07	Jaffna	Jaffna	FW01_05	FW01_05				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Jaffna		Sri Lanka		9.6650403	80.0205976		
+55	E08	Nallur	Nallur	FW03_03A	FW03_03A				0ppt	salinity GWAS; technical replica 1	Andrea Gloria-Soria	Private	Nallur		Sri Lanka		9.6707887	80.0301617		
+55	E09	Kokkuvil	Kokkuvil	FW05_01	FW05_01				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Kokkuvil		Sri Lanka		9.6941501	80.0238766		
+55	E10	Kokkuvil	Kokkuvil	FW06_04	FW06_04				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Kokkuvil		Sri Lanka		9.6941501	80.0238766		
+55	E11	Uduvil	Uduvil	FW08_02	FW08_02				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Uduvil		Sri Lanka		9.732428	80.01027		
+55	E12	Gurunagar	Gurunagar	BW02_05A	BW02_05A				8ppt	salinity GWAS; technical replica 1	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		9.6545258	80.0210231		
+55	F07	Jaffna	Jaffna	FW02_01	FW02_01				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Jaffna		Sri Lanka		9.6650403	80.0205976		
+55	F08	Nallur	Nallur	FW03_04	FW03_04				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Nallur		Sri Lanka		9.6707887	80.0301617		
+55	F09	Kokkuvil	Kokkuvil	FW05_02	FW05_02				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Kokkuvil		Sri Lanka		9.6941501	80.0238766		
+55	F10	Kokkuvil	Kokkuvil	FW06_05	FW06_05				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Kokkuvil		Sri Lanka		9.6941501	80.0238766		
+55	F11	Uduvil	Uduvil	FW08_03	FW08_03				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Uduvil		Sri Lanka		9.732428	80.01027		
+55	F12	Ariyalai	Ariyalai	BW05_04A	BW05_04A				8ppt	salinity GWAS; technical replica 1	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.6486397	80.0602849		
+55	G07	Jaffna	Jaffna	FW02_02	FW02_02				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Jaffna		Sri Lanka		9.6650403	80.0205976		
+55	G08	Nallur	Nallur	FW03_05	FW03_05				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Nallur		Sri Lanka		9.6707887	80.0301617		
+55	G09	Kokkuvil	Kokkuvil	FW05_03	FW05_03				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Kokkuvil		Sri Lanka		9.6941501	80.0238766		
+55	G10	Inuvil	Inuvil	FW07_01	FW07_01				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Inuvil		Sri Lanka		9.712839	80.01196		
+55	G11	Uduvil	Uduvil	FW08_04	FW08_04				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Uduvil		Sri Lanka		9.732428	80.01027		
+55	G12	Ariyalai	Ariyalai	BW09_02A	BW09_02A				4ppt	salinity GWAS; technical replica 1	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.666137	80.043103		
+55	H07	Jaffna	Jaffna	FW02_03	FW02_03				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Jaffna		Sri Lanka		9.6650403	80.0205976		
+55	H08	Nallur	Nallur	FW04_01	FW04_01				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Nallur		Sri Lanka		9.6707887	80.0301617		
+55	H09	Kokkuvil	Kokkuvil	FW05_04	FW05_04				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Kokkuvil		Sri Lanka		9.6941501	80.0238766		
+55	H10	Inuvil	Inuvil	FW07_02	FW07_02				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Inuvil		Sri Lanka		9.712839	80.01196		
+55	H11	Uduvil	Uduvil	FW08_05	FW08_05				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Uduvil		Sri Lanka		9.732428	80.01027		
+56	A01	Kopay	Kopay	FW09_03	FW09_03				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Kopay		Sri Lanka		9.705016	80.05754		
+56	A02	Gurunagar	Gurunagar	BW01_01B	BW01_01B				8ppt	salinity GWAS;  technical replica 2	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		9.6545258	80.0210231		
+56	A03	Gurunagar	Gurunagar	BW02_04B	BW02_04B				8ppt	salinity GWAS;  technical replica 2	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		9.6545258	80.0210231		
+56	A04	Navanthurai	Navanthurai	BW04_02	BW04_02				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Navanthurai		Sri Lanka		9.6689441	80.0074159		
+56	A05	Ariyalai	Ariyalai	BW05_05	BW05_05				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.6486397	80.0602849		
+56	A06	Gurunagar	Gurunagar	BW07_03	BW07_03				6ppt	salinity GWAS	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		"9.653669,"	80.016942		
+56	A07	Gurunagar	Gurunagar	BW08_05	BW08_05				6ppt	salinity GWAS	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		"9.653669,"	80.016942		
+56	A08	Mankumban	Mankumban	BW10_03	BW10_03				12ppt	salinity GWAS	Andrea Gloria-Soria	Private	Mankumban		Sri Lanka		9.64076	79.932541		
+56	A10	Nallur	Nallur	FW03_03B	FW03_03B				0ppt	salinity GWAS;  technical replica 2	Andrea Gloria-Soria	Private	Nallur		Sri Lanka		9.6707887	80.0301617		
+56	B01	Kopay	Kopay	FW09_04	FW09_04				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Kopay		Sri Lanka		9.705016	80.05754		
+56	B02	Gurunagar	Gurunagar	BW01_02	BW01_02				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		9.6545258	80.0210231		
+56	B03	Gurunagar	Gurunagar	BW02_05B	BW02_05B				8ppt	salinity GWAS; technical replica 2	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		9.6545258	80.0210231		
+56	B04	Navanthurai	Navanthurai	BW04_03	BW04_03				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Navanthurai		Sri Lanka		9.6689441	80.0074159		
+56	B05	Ariyalai	Ariyalai	BW06_01	BW06_01				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.6486397	80.0602849		
+56	B06	Gurunagar	Gurunagar	BW07_04	BW07_04				6ppt	salinity GWAS	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		"9.653669,"	80.016942		
+56	B07	Ariyalai	Ariyalai	BW09_01	BW09_01				4ppt	salinity GWAS	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.666137	80.043103		
+56	B08	Mankumban	Mankumban	BW10_04	BW10_04				12ppt	salinity GWAS	Andrea Gloria-Soria	Private	Mankumban		Sri Lanka		9.64076	79.932541		
+56	B10	Inuvil	Inuvil	FW07_05B	FW07_05B				0ppt	salinity GWAS;  technical replica 2	Andrea Gloria-Soria	Private	Inuvil		Sri Lanka		9.712839	80.01196		
+56	C01	Kopay	Kopay	FW09_05	FW09_05				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Kopay		Sri Lanka		9.705016	80.05754		
+56	C02	Gurunagar	Gurunagar	BW01_03	BW01_03				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		9.6545258	80.0210231		
+56	C03	Navanthurai	Navanthurai	BW03_01	BW03_01				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Navanthurai		Sri Lanka		9.6689441	80.0074159		
+56	C04	Navanthurai	Navanthurai	BW04_04	BW04_04				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Navanthurai		Sri Lanka		9.6689441	80.0074159		
+56	C05	Ariyalai	Ariyalai	BW06_02	BW06_02				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.6486397	80.0602849		
+56	C06	Gurunagar	Gurunagar	BW07_05	BW07_05				6ppt	salinity GWAS	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		"9.653669,"	80.016942		
+56	C07	Ariyalai	Ariyalai	BW09_02B	BW09_02B				4ppt	salinity GWAS;  technical replica 2	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.666137	80.043103		
+56	C08	Mankumban	Mankumban	BW10_05	BW10_05				12ppt	salinity GWAS	Andrea Gloria-Soria	Private	Mankumban		Sri Lanka		9.64076	79.932541		
+56	D01	Uduvil	Uduvil	FW10_01	FW10_01				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Uduvil		Sri Lanka		9.732428	80.01027		
+56	D02	Gurunagar	Gurunagar	BW01_04	BW01_04				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		9.6545258	80.0210231		
+56	D03	Navanthurai	Navanthurai	BW03_02	BW03_02				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Navanthurai		Sri Lanka		9.6689441	80.0074159		
+56	D04	Navanthurai	Navanthurai	BW04_05	BW04_05				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Navanthurai		Sri Lanka		9.6689441	80.0074159		
+56	D05	Ariyalai	Ariyalai	BW06_03	BW06_03				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.6486397	80.0602849		
+56	D06	Gurunagar	Gurunagar	BW07_06	BW07_06				6ppt	salinity GWAS	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		"9.653669,"	80.016942		
+56	D07	Ariyalai	Ariyalai	BW09_03	BW09_03				4ppt	salinity GWAS	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.666137	80.043103		
+56	E01	Uduvil	Uduvil	FW10_02	FW10_02				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Uduvil		Sri Lanka		9.732428	80.01027		
+56	E02	Gurunagar	Gurunagar	BW01_05	BW01_05				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		9.6545258	80.0210231		
+56	E03	Navanthurai	Navanthurai	BW03_03	BW03_03				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Navanthurai		Sri Lanka		9.6689441	80.0074159		
+56	E04	Ariyalai	Ariyalai	BW05_01	BW05_01				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.6486397	80.0602849		
+56	E05	Ariyalai	Ariyalai	BW06_04	BW06_04				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.6486397	80.0602849		
+56	E06	Gurunagar	Gurunagar	BW08_01	BW08_01				6ppt	salinity GWAS	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		"9.653669,"	80.016942		
+56	E07	Ariyalai	Ariyalai	BW09_04	BW09_04				4ppt	salinity GWAS	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.666137	80.043103		
+56	F01	Uduvil	Uduvil	FW10_03	FW10_03				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Uduvil		Sri Lanka		9.732428	80.01027		
+56	F02	Gurunagar	Gurunagar	BW02_01	BW02_01				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		9.6545258	80.0210231		
+56	F03	Navanthurai	Navanthurai	BW03_04	BW03_04				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Navanthurai		Sri Lanka		9.6689441	80.0074159		
+56	F04	Ariyalai	Ariyalai	BW05_02	BW05_02				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.6486397	80.0602849		
+56	F05	Ariyalai	Ariyalai	BW06_05	BW06_05				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.6486397	80.0602849		
+56	F06	Gurunagar	Gurunagar	BW08_02	BW08_02				6ppt	salinity GWAS	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		"9.653669,"	80.016942		
+56	F07	Ariyalai	Ariyalai	BW09_05	BW09_05				4ppt	salinity GWAS	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.666137	80.043103		
+56	F09	Jaffna	Jaffna	FW01_02B	FW01_02B				0ppt	salinity GWAS;  technical replica 2	Andrea Gloria-Soria	Private	Jaffna		Sri Lanka		9.6650403	80.0205976		
+56	G01	Uduvil	Uduvil	FW10_04	FW10_04				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Uduvil		Sri Lanka		9.732428	80.01027		
+56	G02	Gurunagar	Gurunagar	BW02_02	BW02_02				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		9.6545258	80.0210231		
+56	G03	Navanthurai	Navanthurai	BW03_05	BW03_05				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Navanthurai		Sri Lanka		9.6689441	80.0074159		
+56	G04	Ariyalai	Ariyalai	BW05_03	BW05_03				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.6486397	80.0602849		
+56	G05	Gurunagar	Gurunagar	BW07_01	BW07_01				6ppt	salinity GWAS	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		"9.653669,"	80.016942		
+56	G06	Gurunagar	Gurunagar	BW08_03	BW08_03				6ppt	salinity GWAS	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		"9.653669,"	80.016942		
+56	G07	Mankumban	Mankumban	BW10_01	BW10_01				12ppt	salinity GWAS	Andrea Gloria-Soria	Private	Mankumban		Sri Lanka		9.64076	79.932541		
+56	G09	Jaffna	Jaffna	FW01_03B	FW01_03B				0ppt	salinity GWAS;  technical replica 2	Andrea Gloria-Soria	Private	Jaffna		Sri Lanka		9.6650403	80.0205976		
+56	H01	Uduvil	Uduvil	FW10_05	FW10_05				0ppt	salinity GWAS	Andrea Gloria-Soria	Private	Uduvil		Sri Lanka		9.732428	80.01027		
+56	H02	Gurunagar	Gurunagar	BW02_03	BW02_03				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		9.6545258	80.0210231		
+56	H03	Navanthurai	Navanthurai	BW04_01	BW04_01				8ppt	salinity GWAS	Andrea Gloria-Soria	Private	Navanthurai		Sri Lanka		9.6689441	80.0074159		
+56	H04	Ariyalai	Ariyalai	BW05_04B	BW05_04B				8ppt	salinity GWAS;  technical replica 2	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.6486397	80.0602849		
+56	H05	Gurunagar	Gurunagar	BW07_02	BW07_02				6ppt	salinity GWAS	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		"9.653669,"	80.016942		
+56	H06	Gurunagar	Gurunagar	BW08_04	BW08_04				6ppt	salinity GWAS	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		"9.653669,"	80.016942		
+56	H07	Mankumban	Mankumban	BW10_02	BW10_02				12ppt	salinity GWAS	Andrea Gloria-Soria	Private	Mankumban		Sri Lanka		9.64076	79.932541		
+56	H09	Jaffna	Jaffna	FW01_04B	FW01_04B				0ppt	salinity GWAS; technical replica 2	Andrea Gloria-Soria	Private	Jaffna		Sri Lanka		9.6650403	80.0205976		
+57	A11	Jaffna	Jaffna	FW01_02	FW01_03				0ppt	"salinity GWAS, technical replica 3"	Andrea Gloria-Soria	Private	Jaffna		Sri Lanka		9.6650403	80.0205976		
+57	A12	Jaffna	Jaffna	FW01_03	FW01_04				0ppt	"salinity GWAS, technical replica 3"	Andrea Gloria-Soria	Private	Jaffna		Sri Lanka		9.6650403	80.0205976		
+57	B01	Jaffna	Jaffna	FW01_04	FW03_03				0ppt	"salinity GWAS, technical replica 3"	Andrea Gloria-Soria	Private	Jaffna		Sri Lanka		9.6650403	80.0205976		
+57	B02	Nallur	Nallur	FW03_03	FW07_05				0ppt	"salinity GWAS, technical replica 3"	Andrea Gloria-Soria	Private	Nallur		Sri Lanka		9.6707887	80.0301617		
+57	B03	Inuvil	Inuvil	FW07_05	BW01_01				0ppt	"salinity GWAS, technical replica 3"	Andrea Gloria-Soria	Private	Inuvil		Sri Lanka		9.712839	80.01196		
+57	B04	Gurunagar	Gurunagar	BW01_01	BW02_04				8ppt	"salinity GWAS, technical replica 3"	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		9.6545258	80.0210231		
+57	B05	Gurunagar	Gurunagar	BW02_04	BW02_05				8ppt	"salinity GWAS, technical replica 3"	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		9.6545258	80.0210231		
+57	B06	Gurunagar	Gurunagar	BW02_05	BW05_04				8ppt	"salinity GWAS, technical replica 3"	Andrea Gloria-Soria	Private	Gurunagar		Sri Lanka		9.6545258	80.0210231		
+57	B07	Ariyalai	Ariyalai	BW05_04	BW09_02				8ppt	"salinity GWAS, technical replica 3"	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.6486397	80.0602849		
+57	B08	Ariyalai	Ariyalai	BW09_02	SD20_008				8ppt	"salinity GWAS, technical replica 3"	Andrea Gloria-Soria	Private	Ariyalai		Sri Lanka		9.6486397	80.0602849		

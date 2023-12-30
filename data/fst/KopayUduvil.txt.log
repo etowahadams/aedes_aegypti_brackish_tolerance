@@ -1,0 +1,21 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf SriLanka_only_relate.vcf
+	--weir-fst-pop fst/Kopay.txt
+	--weir-fst-pop fst/Uduvil.txt
+	--keep fst/Kopay.txt
+	--keep fst/Uduvil.txt
+	--out ./fst/KopayUduvil.txt
+
+Using zlib version: 1.2.11
+Warning: Expected at least 2 parts in INFO entry: ID=PR,Number=0,Type=Flag,Description="Provisional reference allele, may not be based on real reference genome">
+Keeping individuals in 'keep' list
+After filtering, kept 6 out of 73 Individuals
+Outputting Weir and Cockerham Fst estimates.
+Weir and Cockerham mean Fst estimate: -0.021057
+Weir and Cockerham weighted Fst estimate: 0.014314
+After filtering, kept 10545 out of a possible 10545 Sites
+Run Time = 0.00 seconds

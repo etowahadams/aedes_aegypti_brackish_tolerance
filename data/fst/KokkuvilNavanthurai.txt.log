@@ -1,0 +1,21 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf SriLanka_only_relate.vcf
+	--weir-fst-pop fst/Kokkuvil.txt
+	--weir-fst-pop fst/Navanthurai.txt
+	--keep fst/Kokkuvil.txt
+	--keep fst/Navanthurai.txt
+	--out ./fst/KokkuvilNavanthurai.txt
+
+Using zlib version: 1.2.11
+Warning: Expected at least 2 parts in INFO entry: ID=PR,Number=0,Type=Flag,Description="Provisional reference allele, may not be based on real reference genome">
+Keeping individuals in 'keep' list
+After filtering, kept 5 out of 73 Individuals
+Outputting Weir and Cockerham Fst estimates.
+Weir and Cockerham mean Fst estimate: 0.020888
+Weir and Cockerham weighted Fst estimate: 0.069558
+After filtering, kept 10545 out of a possible 10545 Sites
+Run Time = 1.00 seconds

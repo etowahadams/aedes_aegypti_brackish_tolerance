@@ -1,0 +1,11 @@
+name: aedes_aegypti_brackish_tolerance
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - matplotlib
+  - numpy
+  - seaborn
+  - cartopy
+  - ipykernel
