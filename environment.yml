@@ -6,6 +6,6 @@ dependencies:
   - pandas
   - matplotlib
   - numpy
-  - seaborn
-  - cartopy
+  - seaborn=0.13.0
+  - cartopy=0.22.0
   - ipykernel

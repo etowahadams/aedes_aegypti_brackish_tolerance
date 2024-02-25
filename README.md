@@ -1,5 +1,5 @@
 # aedes_aegypti_brackish_tolerance
-Code to reproduce analysis
+Code to reproduce figures and analysis
 
 # Environment setup
 ```
@@ -13,6 +13,4 @@ conda activate aedes_aegypti_brackish_tolerance
 ```
 
 Then start running the notebooks in `./notebooks`!
-
-# Files
 
