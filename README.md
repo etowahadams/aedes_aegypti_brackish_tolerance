@@ -1,4 +1,4 @@
-# aedes_aegypti_brackish_tolerance
+# Exploring the Genetic Basis of Brackish Water Tolerance in Aedes aegypti
 Code to reproduce figures and analysis
 
 # Environment setup
